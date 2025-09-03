@@ -11,8 +11,8 @@ const App = () => {
           <p id="body-title-header">Se parte de la transformación digital de <br/> emprendedores y PYMES</p>
         </div>
         <div className="buttons-actions">
-          <ButtonAction text="Quiero comprar"/>
-          <ButtonAction text="Ver productos"/>
+          <ButtonAction style={true} textLabel="Quiero comprar"/>
+          <ButtonAction textLabel="Ver productos"/>
         </div>
       </div>
     </div>
